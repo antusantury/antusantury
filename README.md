@@ -11,16 +11,10 @@ I am an aspiring Backend Developer focused on building reliable, efficient, and 
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <!-- Python -->
-  <img src="https://shields.io" alt="Python" />
-  <!-- C++ -->
-  <img src="https://shields.io" alt="C++" />
-  <!-- Git -->
-  <img src="https://shields.io" alt="Git" />
-  <!-- Linux -->
-  <img src="https://shields.io" alt="Linux" />
-</p>
+### 🛠️ Tech Stack & Tools
+
+![Python](https://shields.io) ![C++](https://shields.io) ![Git](https://shields.io) ![Linux](https://shields.io)
+
 
 
 ---

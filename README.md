@@ -11,17 +11,19 @@ I am an aspiring Backend Developer focused on building reliable, efficient, and 
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** `Python` | `C++`
-* **Tools & OS:** `Git` | `GitHub` | `Linux`
-
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` &nbsp;&middot;&nbsp; `C++` |
+| **Tools & OS** | `Git` &nbsp;&middot;&nbsp; `GitHub` &nbsp;&middot;&nbsp; `Linux` |
 
 ---
 
-### 📈 GitHub Statistics
+### 📂 Featured Projects
+*(You can pin your repositories like BlackDiamond and WardenPulse below, or list them here with brief descriptions)*
 
-<<p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak" height="150px" />
-</p>
+- 💻 **[BlackDiamond](https://github.com/antusantury/blackdiamond)** — Short description of what this project does.
+- 🛡️ **[WardenPulse](https://github.com/antusantury/wardenpulse)** — Short description of what this project does.
+
 
 ---
 

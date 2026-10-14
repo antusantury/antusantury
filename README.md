@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Mykola (antusantury) 👋
 
-<!--
-**antusantury/antusantury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Junior / Intern Backend Developer
+I am an aspiring Backend Developer focused on building reliable, efficient, and scalable server-side solutions. I enjoy diving into system programming, networking, and algorithms using Python and C++. 
 
-Here are some ideas to get you started:
+- 🎓 Software Engineering Student (Graduation: 2026/2030)
+- ⚙️ Actively improving my skills in Data Structures, Algorithms, and System Architecture
+- 💼 Open to Internship and Junior Software Engineer opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://shields.io" alt="Python" />
+  <!-- C++ -->
+  <img src="https://shields.io" alt="C++" />
+  <!-- Git -->
+  <img src="https://shields.io" alt="Git" />
+  <!-- Linux -->
+  <img src="https://shields.io" alt="Linux" />
+</p>
+
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="180px" />
+  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- ✉️ Email: [antusantury@gmail.com](mailto:antusantury@gmail.com)

@@ -13,7 +13,7 @@ I am an aspiring Backend Developer focused on building reliable, efficient, and 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` &nbsp;&middot;&nbsp; `C++` |
+|**Languages** | `Python` &nbsp;&middot;&nbsp; **`Rust`** &nbsp;&middot;&nbsp; `C++`
 | **Tools & OS** | `Git` &nbsp;&middot;&nbsp; `GitHub` &nbsp;&middot;&nbsp; `Linux` |
 
 ---

@@ -19,7 +19,6 @@ I am an aspiring Backend Developer focused on building reliable, efficient, and 
 ---
 
 ### 📂 Featured Projects
-*(You can pin your repositories like BlackDiamond and WardenPulse below, or list them here with brief descriptions)*
 
 - 💻 **[BlackDiamond](https://github.com/antusantury/blackdiamond)** — Short description of what this project does.
 - 🛡️ **[WardenPulse](https://github.com/antusantury/wardenpulse)** — Short description of what this project does.

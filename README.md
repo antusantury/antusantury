@@ -11,10 +11,8 @@ I am an aspiring Backend Developer focused on building reliable, efficient, and 
 
 ### 🛠️ Tech Stack & Tools
 
-### 🛠️ Tech Stack & Tools
-
-![Python](https://shields.io) ![C++](https://shields.io) ![Git](https://shields.io) ![Linux](https://shields.io)
-
+* **Languages:** `Python` | `C++`
+* **Tools & OS:** `Git` | `GitHub` | `Linux`
 
 
 ---

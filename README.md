@@ -28,8 +28,8 @@ I am an aspiring Backend Developer focused on building reliable, efficient, and 
 ### 📈 GitHub Statistics
 
 <p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+  <img src="https://snehith.dev" alt="GitHub Stats" height="180px" />
+  <img src="https://snehith.dev" alt="Top Languages" height="180px" />
 </p>
 
 ---

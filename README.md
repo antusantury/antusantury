@@ -31,6 +31,6 @@ Escrow system for secure P2P transactions. Funds are held until predefined condi
 
 ---
 
-### 📫 Connect with Me
+### 📫  Contact
 
 - ✉️ Email: [antusantury@gmail.com](mailto:antusantury@gmail.com)

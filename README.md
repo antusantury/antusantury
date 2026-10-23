@@ -1,4 +1,4 @@
-# Hi there, I'm Mykola (antusantury) 👋
+# Hi there, I'm Mykola 👋
 
 ### 🚀 Junior / Intern Backend Developer
 I am an aspiring Backend Developer focused on building reliable, efficient, and scalable server-side solutions. I enjoy diving into system programming, networking, and algorithms using Python and C++. 

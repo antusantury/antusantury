@@ -22,8 +22,10 @@ I am an aspiring Backend Developer focused on building reliable, efficient, and 
 
 - 💻 **[BlackDiamond](https://github.com/antusantury/blackdiamond)** — 
 Escrow system for secure P2P transactions. Funds are held until predefined conditions are met, reducing counterparty risk.
+
 **Stack:** Python, [FastAPI/Flask], [PostgreSQL/SQLite]
 - 🛡️ **[WardenPulse](https://github.com/antusantury/wardenpulse)** — Distributed monitoring system for tracking service health and alerting on failures in near real time.
+
 **Stack:** [Python/C++], [WebSocket/gRPC], [SQLite/PostgreSQL]
 
 
